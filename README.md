@@ -1,7 +1,7 @@
 # oterm
 
 the terminal client for [Ollama](https://github.com/ollama/ollama).
-
+**IF YOU HAVE TOKEN ISSUE PLEASE REFER ![Token Issue](https://github.com/seekergit-tt/project2/issues/1)
 ## Features
 
 * intuitive and simple terminal UI, no need to run servers, frontends, just type `oterm` in your terminal.
